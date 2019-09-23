@@ -31,7 +31,7 @@ gem "bootstrap-table-rails"
 
 gem 'jquery-rails'
 
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 
 gem 'faker'
 
